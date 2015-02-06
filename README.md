@@ -1,0 +1,2 @@
+# ExiTK
+ExiTK Metacity Theme
